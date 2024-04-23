@@ -58,7 +58,7 @@ async def github(_, message):
 ๏ ғᴏʟʟᴏᴡᴇʀs ➠ {followers}
 ๏ ғᴏʟʟᴏᴡɪɴɢ ➠ {following}
 
-๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ [๛ɴ ʏ ᴋ ᴀ ᴀ࿐](https://t.me/nykaaxbot)"""
+๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ [𝐓ε᧘‌ᴍ|𝐒꯭ιɴꭗ‌](https://t.me/SinX_Updates)"""
 
             except Exception as e:
                 print(str(e))
